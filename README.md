@@ -2,7 +2,7 @@
 
 - 🔭 Currently working at [CESAR](http://english.cesar.org.br/) (Recife) as Fullstack Developer Intern
 - 📚 Currently studying Computer Engineering at [Federal University of Pernambuco - UFPE](https://www.ufpe.br/inicio), more specifally at the [Informatic Center - CIn](https://portal.cin.ufpe.br/)
-- Currently studyng NodeJS, ReactJS, React Native and Typescript in the Online GoStack Bootcamp at [Rocketseat](https://rocketseat.com.br/)
+- 📚 Currently studyng NodeJS, ReactJS, React Native and Typescript in the Online GoStack Bootcamp at [Rocketseat](https://rocketseat.com.br/)
 - 💬 Ask me about Frontend Development
 - 🇧🇷 Born in Recife, Brazil
 - 🇧🇷 Currently living in Recife, Brazil 
