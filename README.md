@@ -1,17 +1,17 @@
 ### Hello, I'm Andre Figueiroa! 👋
 
-- 🔭 Currently working at [CESAR](http://english.cesar.org.br/) (Recife) as Fullstack Developer Intern
+- 🔭 Currently working at [CESAR](http://english.cesar.org.br/) (Recife) as Software Engineer
 - 📚 Currently studying Computer Engineering at [Federal University of Pernambuco - UFPE](https://www.ufpe.br/inicio), more specifally at the [Informatic Center - CIn](https://portal.cin.ufpe.br/)
-- 📚 Currently studyng NodeJS, ReactJS, React Native and Typescript in the Online GoStack Bootcamp at [Rocketseat](https://rocketseat.com.br/)
-- 💬 Ask me about Frontend Development
+- 💬 Ask me about Web Development
 - 🇧🇷 Born in Recife, Brazil
 - 🇧🇷 Currently living in Recife, Brazil 
 
-### I'm focused on
-- 👨🏾‍💻 Completing the GoStack Bootcamp
-- 🎓 Graduate in Computer Engineering
-- 👨‍💻 Software Development
-- 👨‍💻 React JS, TypeScript
+### I'm currently focused on
+- 🎓 Complete my graduation on Computer Engineering
+- 👨‍💻 Software Engeneering (Software Development, Software Architecture, Software Quality, etc.)
+- 👨‍💻 Frontend Development with Angular and Typescript
+- 👨‍💻 Backend Development with .NET Core
+
 
 ### Find me elsewhere 🌎
 
