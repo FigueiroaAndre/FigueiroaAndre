@@ -16,5 +16,4 @@
 ### Find me elsewhere 🌎
 
 - [<img src="https://www.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="Linkedin" width="16" /> @alfigueiroab](https://www.linkedin.com/in/alfigueiroab/)
-- [<img src="https://www.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="Twitter" width="16" /> @andre_figueiroa](https://twitter.com/andre_figueiroa)
 - <img src="https://www.iconfinder.com/data/icons/logos-and-brands/512/147_Gmail_logo_logos-512.png" alt="Gmail" width="16" /> alfigueiroab@gmail.com
